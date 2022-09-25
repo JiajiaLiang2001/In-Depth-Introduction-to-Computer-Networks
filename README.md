@@ -93,7 +93,7 @@
 
 # 第 1 章 概述
 
-[第 1 章 概述](/chapter1 概述/chapter1.md)
+[第 1 章 概述](./chapter1 概述/chapter1.md)
 
 ## 1.1 信息时代的计算机网络
 
